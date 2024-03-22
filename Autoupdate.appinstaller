@@ -2,13 +2,13 @@
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     Version="1.0.0.0"
-    Uri="https://example.com/MyApp/AppInstaller.xml">
+    Uri="https://github.com/Gbabag/Tallyconnectrelease/blob/main/Autoupdate.appinstaller">
 
   <MainPackage
       Name="com.companyname.tallyconnect"
-      Version="1.0."
+      Version="3.0."
       Publisher="CN=LENOVE"
-      Uri="https://example.com/MyApp/MyApp.msixbundle"
+      Uri="https://github.com/Gbabag/Tallyconnectrelease/blob/main/update.msix"
       Architecture="x64"/>
       
     <UpdateSettings>
